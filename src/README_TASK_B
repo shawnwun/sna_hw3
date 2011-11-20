@@ -1,0 +1,2 @@
+#To run the code for task B
+python partB_v9.py <graph source file> <task A output> <output file path>
